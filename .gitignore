@@ -1,0 +1,5 @@
+/node_modules
+/db.json
+/config.json
+/logs/*.log
+/last_block_processed

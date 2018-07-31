@@ -1,0 +1,8 @@
+{
+    "node": "[[ws://localhost:8546]]",
+    "oracleContractAddress": "[[address of oracle contract]]",
+    "chainId": "[[chain id to use]]",
+    "keyAddr": "[[address of the keypair]]",
+    "keyPk": "[[private key of the keypair]]",
+    "gas": "[[gas for sending transactions]]"
+}
